@@ -2,17 +2,13 @@
 
 Global Weather App is a user-friendly weather application that allows users to check the current temperature and various weather parameters for any location across the globe. This application has been built using HTML, CSS, JavaScript, and a weather API.
 
-<p>Click here to see live application: https://global-weather-app-dev.netlify.app</p> 
-
-<p>Click here to see updated (Dark mode toggle) live application: https://updated-weather-app.netlify.app/</p> 
-
 
 <div align="center">
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/devjainofficial/Weather-app)
 <img src="https://img.shields.io/badge/HacktoberFest-2023-blueviolet" alt="Hacktober Badge"/>
 <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://github.com/devjainofficial" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
+<a href="" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
 
 </div>
 
@@ -35,7 +31,7 @@ Global Weather App is a user-friendly weather application that allows users to c
 ## How to Use
 
 1. **Clone the Repository:**
-https://github.com/devjainofficial/Weather-app.git
+
 
 3. **Open `index.html`:**
 Open the `index.html` file in your preferred web browser.
@@ -63,8 +59,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Our Contributors:
 
-<a href="https://github.com/devjainofficial/Weather-app/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=devjainofficial/Weather-app" />
+
 </a>
 
 
